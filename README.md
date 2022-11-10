@@ -1,2 +1,3 @@
 # Klutnie.github.io
-moja stronka
+Moja Stronka to jes i chyba fajnie
+https://github.com/Klutnie.github.io
