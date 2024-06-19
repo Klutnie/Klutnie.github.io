@@ -63,7 +63,7 @@ nav
     top: 0px;
     position: sticky;
     height: 70px;
-    margin-bottom: 0px;
+    margin-bottom: 70px;
 }
 .dropbtn {
     background-color: var(--kolornaglowka);
